@@ -364,15 +364,6 @@ VITE_API_URL=https://your-backend-url.com
 > Coming soon — live demo screenshots of the Landing Page, Teacher Dashboard, Collaborative Room, and Submissions panel.
 
 ---
-
-## 👨‍💻 Author
-
-**Shubham Dalvi**  
-Mini Project — Semester 6  
-[![GitHub](https://img.shields.io/badge/GitHub-Shubham23593-181717?style=flat&logo=github)](https://github.com/Shubham23593)
-
----
-
 ## 📄 License
 
 This project is licensed under the **ISC License**.
